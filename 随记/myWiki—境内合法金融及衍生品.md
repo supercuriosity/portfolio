@@ -47,8 +47,6 @@
 
 ## 六、其他
 
-- **6.1** LOF套利 
-
 **6.1 LOF套利**
 > (https://www.bilibili.com/video/BV1x7mZYeE8j)
 > 省流：配置完加操作一人一年约可套利3k左右，但不保证收益和完全无风险。
