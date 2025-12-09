@@ -115,14 +115,18 @@ Haifeng Sun
 
 - **Web**: <https://haifengsun.netlify.app/>
 - **作品**: <https://github.com/supercuriosity/portfolio>
-- **Email** curiosity123hf@gmail.com
+- **Email**: curiosity123hf@gmail.com
 - **WeChat**: Haifeng-curiosity
 
 > I use my authentic identity across all major social media platforms. 
+
 > If you want to contact me, please email me rather than direct message on social media (except WeChat). Thank you!
 
 > 本人言论自由受宪法第一修正案保护
+
 > My opinions are protected under the First Amendment of the Constitution.
+
+> 本人所有作品以及科研项目均会在合适时间选择开源，详见 <https://github.com/supercuriosity>
 
 ## 附录二
 
@@ -181,3 +185,14 @@ wish：Heal the world, make it a better place.
 
 回响起峥嵘岁月里的悠悠驼铃
 
+## 附录五
+
+秋日山行
+
+古巷桂香淡，幽庭竹影疏。
+
+云峰横翠色，霜叶落红渠。
+
+坐听泉漱玉，行看鸟相於。
+
+更爱风清处，悠哉步碧虚。
