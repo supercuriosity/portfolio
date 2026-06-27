@@ -1,19 +1,33 @@
+# Poem
 
-# Introduction
+This repository is a personal archive of poems, prose, notes, memories, and paintings.
 
-This collection gathers impulses and imperatives that steer a life toward depth and meaning. It maps resolve: living deliberately, honoring poetry and passion alongside necessary labor, naming the quiet desperation that can gnaw at ordinary days, and asserting agency rather than servitude. The pieces collected here hold urgency without rhetoric and point toward a fuller way of being.
+It records finished works and unfinished traces: travel, friendship, family, ambition, reading, research, money, love, homesickness, and the recurring wish to live deliberately.
 
-# Sayings
-1. > I went to the woods because I wished to live deliberately; to front only the essential facts of life.  
-    > I wanted to live deep and suck out all the marrow of life — to put to rout all that was not life, and not, when I came to die, discover that I had not lived.  
+## Main Sections
 
-2. > We don't read and write poetry because it's cute. We read and write poetry because we are members of the human race, and the human race is filled with passion.  
-    > Medicine, law, business, engineering — these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love — these are what we stay alive for.  
+- `诗/` - poems and short poetic pieces.
+- `散文/` - personal essays, memory pieces, birthdays, hometown, and growth.
+- `笔记/` - reading notes, thought fragments, conversations, and excerpts.
+- `金融/` - finance and investing notes.
+- `画/` - paintings and visual records.
+- `大学/` - reserved for university-life writing.
+- `归档/` - reserved for old drafts, private material, or outdated notes.
 
-3. > "Most men lead lives of quiet desperation."  
-    — Henry David Thoreau
+## Current Index
 
-4. > To struggle against great odds, to meet enemies undaunted;  
-    > to be a sailor of the world, bound for all ports.  
-    > Oh, I live to be the ruler of life, not a slave.
+See [目录.md](目录.md) for the current content map.
 
+## Maintenance Principles
+
+- Preserve the original voice of each piece.
+- Archive immature or private writing instead of deleting it casually.
+- Keep private or sensitive material out of public-facing files.
+- Separate finished literary pieces, life essays, reading notes, and operational notes when reorganizing.
+- When moving files, prefer Git-aware renames so history remains readable.
+
+## Sayings
+
+> I went to the woods because I wished to live deliberately; to front only the essential facts of life.
+
+> We don't read and write poetry because it's cute. We read and write poetry because we are members of the human race, and the human race is filled with passion.
